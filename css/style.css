@@ -126,7 +126,8 @@ html {
   position: absolute;
   right: 0px;
   top: 120px;
-  height: 650px;
+  width: 250px;
+  height: 700px;
 }
 
 /* ==========================================================================================================
@@ -193,10 +194,11 @@ html {
 .fh5co-slider-outer {
   width: 100%;
   height: auto;
+  background-color: #63d7ee;
   padding: 70px;
 }
 .fh5co-slider-outer h1 {
-  color: #648cff;
+  color: #567ffa;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
