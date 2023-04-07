@@ -521,6 +521,13 @@ html {
   float: left;
   height: 50px;
 }
+
+.footer-outer .column-2-4 {
+  width: 1000px;
+  float: left;
+  /* height: 50px; */
+}
+
 .footer-outer .column-3-3 {
   width: 20%;
   float: left;
@@ -902,6 +909,12 @@ html {
   }
 
   .footer-outer .column-2-3 {
+    width: 100%;
+    float: none;
+    height: auto;
+  }
+
+  .footer-outer .column-2-4 {
     width: 100%;
     float: none;
     height: auto;
